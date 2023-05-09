@@ -12,4 +12,4 @@ Terpmap is a bucket-list based guide and introduction to UMD’s Campus. It was 
 
 * Map app relevant to the University of Maryland Campus - Provides a pleasant user interface and navigation experience to support a users’ geolocation of points of interest around campus.
 * Bucket-list tracker of on-campus activities - Allows users to easily track completion of the activities.
-* Location proximity-based notifications - Utilizes the notification system to prompts the user to check an item off their bucket list and lets the user know what activity they are near.
+* Location proximity-based notifications - Utilizes the notification system to prompt the user to check an item off their bucket list and lets the user know what activity they are near.
