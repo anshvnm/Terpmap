@@ -8,3 +8,6 @@ Terpmap is a bucket-list based guide and introduction to UMD’s Campus. It was 
 * Erin Lawson
 * Ansh Vanam
 
+## Goals
+
+* Create a map app relevant to the University of Maryland Campus - The first main goal we set out for our application to achieve was to provide a pleasant user interface and navigation experience to support a users’ geolocation of points of interest around campus. We wanted the map to be centered on the UMD campus and also highlight notable locations on campus. The initial version of the map interface was implemented based on the lectures and lecture slides about using MapKit. It was just a static map that showed the region for the map centered on the UMD campus.
