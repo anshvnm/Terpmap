@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <!--
+     Waypoints representing a walk around UMD campus, hitting all of the bucket list items
+     -->
+    <wpt lat="38.99" lon="-76.95">
+        <name>UMD Campus</name>
+        
+         <time>2014-09-24T14:55:37Z</time>
+         
+    </wpt>
+    
+    
+    <wpt lat="38.990433559726355" lon="-76.94728521734704">
+        <name>footballGame</name>
+        
+         <time>2014-09-24T14:57:37Z</time>
+        
+    </wpt>
+    
+    
+    <wpt lat="38.991400079641785" lon="-76.94472114433383">
+        <name>YahentamitsiDiningHall</name>
+        
+         <time>2014-09-24T14:59:37Z</time>
+     
+    </wpt>
+    
+    
+    <wpt lat="38.9926502545024" lon="-76.94509921549836">
+        <name>laPlataBeach</name>
+        
+         <time>2014-09-24T15:01:37Z</time>
+         
+    </wpt>
+   
+   
+   <wpt lat="38.99591418518346" lon="-76.94176348666267">
+       <name>basketballGame</name>
+       
+        <time>2014-09-24T15:04:37Z</time>
+        
+   </wpt>
+   
+   
+   <wpt lat="38.999548548535444" lon="-76.93272565967573">
+       <name>paintbranchTrail</name>
+      
+        <time>2014-09-24T15:09:37Z</time>
+        
+   </wpt>
+   
+   
+   <wpt lat="38.99319644984482" lon="-76.93936491549829">
+       <name>helicopter</name>
+       
+        <time>2014-09-24T15:14:37Z</time>
+        
+   </wpt>
+   
+   
+   <wpt lat="38.9875945015398" lon="-76.94017321235667">
+       <name>MCircle</name>
+       
+        <time>2014-09-24T15:19:37Z</time>
+        
+   </wpt>
+   
+   
+   <wpt lat="38.98769161079021" lon="-76.94505455887561">
+       <name>jimHenson</name>
+       
+        <time>2014-09-24T15:21:37Z</time>
+        
+   </wpt>
+    
+   
+   <wpt lat="38.986120032749405" lon="-76.94244758851168">
+       <name>fountain</name>
+       
+        <time>2014-09-24T15:21:37Z</time>
+        
+   </wpt>
+   
+   
+   <wpt lat="38.98151722080496" lon="-76.9380202694722">
+       <name>eatMarathon</name>
+       
+        <time>2014-09-24T15:31:37Z</time>
+        
+   </wpt>
+   
+ 
+ 
+ 
+ 
+    
+    
+</gpx>
